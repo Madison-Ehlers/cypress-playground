@@ -2,5 +2,5 @@
 
 `npm install`
 
-`npm open cypress`
+`npm open-cypress`
 
