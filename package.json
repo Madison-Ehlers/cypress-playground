@@ -1,0 +1,22 @@
+{
+  "name": "cypress-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open-cypress": "node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madison-Ehlers/cypress-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madison-Ehlers/cypress-playground/issues"
+  },
+  "homepage": "https://github.com/Madison-Ehlers/cypress-playground#readme",
+  "devDependencies": {
+    "cypress": "^6.3.0"
+  }
+}
