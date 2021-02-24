@@ -4,7 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "open-cypress": "node_modules/.bin/cypress open"
+    "open-cypress": "node_modules/.bin/cypress open",
+    "run-cypress": "node_modules/.bin/cypress run",
+    "cypress": "node_modules/.bin/cypress",
+    "cypress-spec": "node_modules/.bin/cypress run --spec",
+    "check-env": "node -e 'console.log(process.env)' | grep npm"
+
   },
   "repository": {
     "type": "git",
